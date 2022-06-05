@@ -1,0 +1,19 @@
+segment_sources:
+  IBD077552:
+    type: origin_type
+    relation: translation
+    language: en
+  I070D7078:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5c31efb97ce64fbfb2f241380fde36f2:
+    IBD077552: 052e427e8c824c49a0962075b2077cca
+    I070D7078: 7b6cecc1999f4d21b1d6bc959d44caca
+  a9b0bafc1722429480d310d0de0d3cae:
+    IBD077552: 1c948837079b4a698bc5e627a2ddcce6
+    I070D7078: 86f282af66f14ccbaace873a347fea10
+  6127730bcd72465f85e92d75015c4b59:
+    IBD077552: ed7128c22e12400a8e6740e028d11e6a
+    I070D7078: 6fc5df0899694383ae4926f4ecd583f7
